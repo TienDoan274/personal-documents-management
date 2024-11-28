@@ -1,0 +1,7 @@
+elasticsearch
+flask
+langchain
+llama_index
+theflow
+llama-index-readers-json
+kafka-python
